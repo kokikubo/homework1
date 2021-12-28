@@ -12,7 +12,7 @@
 [https://youtu.be/4kyXL1OSse8](https://youtu.be/4kyXL1OSse8)  
 
 ## 回路
-![回路図写真](https://photos.app.goo.gl/wmzRT4B32wVWvh1JA)  
+![回路図画像](file:///C:/Users/banan/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/robosys_%E5%9B%9E%E8%B7%AF%E5%9B%B3.pdf)
 GPIO24.25とLEDを接続しています。  
 
 ## 動作手順  
