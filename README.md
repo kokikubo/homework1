@@ -12,7 +12,7 @@
 [https://youtu.be/4kyXL1OSse8](https://youtu.be/4kyXL1OSse8)  
 
 ## 回路
-<img src = "https://github.com/kokikubo/homework1/files/7786262/robosys_.pdf"
+<img src = "https://github.com/kokikubo/homework1/files/7786262/robosys_.pdf" wisth = "720">  
 GPIO24.25とLEDを接続しています。  
 
 ## 動作手順  
