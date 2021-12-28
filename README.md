@@ -12,12 +12,12 @@
 [https://youtu.be/4kyXL1OSse8](https://youtu.be/4kyXL1OSse8)  
 
 ## 回路
-![]()  
+![回路図写真](https://photos.app.goo.gl/wmzRT4B32wVWvh1JA)  
 GPIO24.25とLEDを接続しています。  
 
 ## 動作手順  
 初めに以下のコマンドを実行します。  
-```$ git clone https://github.com/kokikubo/homework1.git```
+```$ git clone https://github.com/kokikubo/homework1.git```  
 ```$ cd myled```  
 ```$ make```  
 ```$ sudo insmod myled.ko```  
