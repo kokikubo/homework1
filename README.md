@@ -17,11 +17,11 @@ GPIO24.25とLEDを接続しています。
 
 ## 動作手順  
 初めに以下のコマンドを実行します。  
-$ git clone 
-$ cd myled  
-$ make  
-$ sudo insmod myled.ko  
-$ sudo chmod 666 /dev/myled0  
+```$ git clone https://github.com/kokikubo/homework1.git```
+```$ cd myled```  
+```$ make```  
+```$ sudo insmod myled.ko```  
+```$ sudo chmod 666 /dev/myled0```  
 
 LED1の点灯  
 ```$ echo 1 > /dev/myled0```  
@@ -31,5 +31,6 @@ LED2の点灯
 ```$ echo 3 > /dev/myled0```  
 LED2の消灯  
 ```$ echo 2 > /dev/myled0```  
+
 ## ライセンス  
 GNU General Public License v3.0
