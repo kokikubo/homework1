@@ -1,9 +1,9 @@
-   #include <linux/module.h>
-   #include <linux/fs.h>
-   #include <linux/cdev.h>
-   #include <linux/device.h>
-   #include <linux/uaccess.h>
-   #include <linux/io.h>
+#include <linux/module.h>
+#include <linux/fs.h>
+#include <linux/cdev.h>
+#include <linux/device.h>
+#include <linux/uaccess.h>
+#include <linux/io.h>
 
 
 MODULE_AUTHOR("Koki Kubo and Ryuichi Ueda");
@@ -112,8 +112,8 @@ static struct file_operations led_fops = {
 	printk(KERN_INFO "%s is unloaded. major:%d\n", __FILE__, MAJOR(dev));
 }
 
- module_init(init_mod);
- module_exit(cleanup_mod);
+module_init(init_mod);
+module_exit(cleanup_mod);
 
 
 
