@@ -12,7 +12,7 @@
 [https://youtu.be/4kyXL1OSse8](https://youtu.be/4kyXL1OSse8)  
 
 ## 回路
-![回路図画像]()
+<img src = "https://github.com/kokikubo/homework1/issues/1#issue-1090116047"
 GPIO24.25とLEDを接続しています。  
 
 ## 動作手順  
